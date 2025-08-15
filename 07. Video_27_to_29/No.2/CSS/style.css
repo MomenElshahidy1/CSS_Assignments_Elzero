@@ -1,0 +1,14 @@
+div {
+    margin: 20px auto;
+    width: 300px;
+    font: normal bold 1rem Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: #ddd;
+    color: black;
+}
+.one {
+    background-color: rgb(221 221 221 / 0.1);
+}
+.two {
+    opacity: 0.1;
+}
