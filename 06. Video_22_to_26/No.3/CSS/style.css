@@ -1,0 +1,15 @@
+.one {
+    text-align: center;
+    text-transform: capitalize;
+    font: normal bold 2.5rem Arial;
+}
+.two {
+    text-align: center;
+    text-transform: capitalize;
+    font: normal bold 2rem Arial;
+}
+.three {
+    text-align: center;
+    text-transform: capitalize;
+    font: normal bold 1.5rem Arial;
+}

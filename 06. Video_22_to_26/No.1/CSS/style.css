@@ -1,0 +1,28 @@
+.one {
+    width: 70%;
+    border: 5px solid #E91E63;
+    text-align: center;
+    padding: 25px;
+    margin: 20px auto;
+}
+.one p {
+    background-color: #ddd;
+    border: 5px solid;
+    border-color: inherit;
+    padding: inherit;
+    margin: auto;
+}
+.two {
+    width: 70%;
+    border: 5px solid #009688;
+    text-align: center;
+    padding: 25px;
+    margin: auto;
+}
+.two p {
+    background-color: #ddd;
+    border: 5px solid;
+    border-color: inherit;
+    padding: inherit;
+    margin: auto;
+}

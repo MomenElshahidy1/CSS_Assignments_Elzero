@@ -1,0 +1,11 @@
+div {
+    height: 30px;
+    padding: 10px;
+    margin: 20px;
+    letter-spacing: 2px;
+    font: normal bold 50px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    text-shadow: 3px 1px 0 #F44336, 
+    6px 2px 0 #2196F3,
+    9px 3px 0 #9C27B0;;
+}
