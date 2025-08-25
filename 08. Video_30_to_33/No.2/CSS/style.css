@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: #EEE;
+    border: 3px solid;
+    border-color: #F44336 #03A9F4;
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    position: relative;
+}
+
+.top-left,
+.bottom-left,
+.top-right,
+.bottom-right {
+    position: absolute;
+    background-color: #03A9F4;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.top-left {
+    top: -15px;
+    left: -15px;
+    border-right: 3px solid #F44336;
+}
+
+.bottom-left {
+    bottom: -15px;
+    left: -15px;
+    border-right: 3px solid #F44336;
+}
+
+.top-right {
+    top: -15px;
+    right: -15px;
+    border-left: 3px solid #F44336;
+}
+.bottom-right {
+    right: -15px;
+    bottom: -15px;
+    border-left: 3px solid #F44336;
+}
